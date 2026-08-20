@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "ekavach-ncd-server",
+  "main": "src/entry.py",
+  "compatibility_date": "2026-08-20",
+  "compatibility_flags": [
+    "python_workers"
+  ]
+}
