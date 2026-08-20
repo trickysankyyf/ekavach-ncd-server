@@ -1,0 +1,9 @@
+[project]
+name = "ekavach-ncd-server"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+]
+
+[dependency-groups]
+dev = []
