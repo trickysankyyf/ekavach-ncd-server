@@ -1,3 +1,0 @@
-fastapi
-workers-py>=1.9
-uvicorn
